@@ -16,7 +16,7 @@ As mentioned above, the data we are using is based on the World Bank Data. Speci
 The evaluation criterion is the average sum of squared residuals for populations from 2000 to 2016.
 
 ## File Descriptions
-> population_training.csv – the training data in Kaggle format (40 x 213)
+* population_training.csv – the training data in Kaggle format (40 x 213)
 > population_testing.csv – the test data in Kaggle format (17 x 213)
 > population_sample.csv – A sample Kaggle solution (17 x 213)
 > population_prediction_Cor.csv – A predicton file for Correlation (17 x 213)
